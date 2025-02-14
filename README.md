@@ -12,7 +12,7 @@ A RESTful API built with Express.js and MongoDB for user authentication and sear
 - Password hashing using bcryptjs
 - JWT-based authentication
 
-[Watch the Loom Video](https://www.loom.com/share/847f754c0483452d91e0b5be1a25df74?sid=bedd744b-0068-40e4-a47b-79129e50a03b)
+[![Watch the video](screenshot.png)](https://www.loom.com/share/847f754c0483452d91e0b5be1a25df74?sid=bedd744b-0068-40e4-a47b-79129e50a03b)
 
 
 ## Prerequisites
